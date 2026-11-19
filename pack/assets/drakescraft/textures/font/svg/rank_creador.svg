@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 44" width="196" height="44">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5A1080"/>
+      <stop offset="55%" stop-color="#350959"/>
+      <stop offset="100%" stop-color="#29063D"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF2A6"/>
+      <stop offset="38%" stop-color="#FFD700"/>
+      <stop offset="72%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#8C6414"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#F5D0FE"/>
+      <stop offset="100%" stop-color="#E056FD"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer dark silhouette for crisp contrast on any chat background -->
+  <rect x="6" y="2" width="184" height="40" rx="7" fill="#120420"/>
+
+  <!-- Golden Greek metallic frame -->
+  <rect x="8" y="3.5" width="180" height="37" rx="6" fill="url(#goldGrad)"/>
+
+  <!-- Royal purple interior plaque -->
+  <rect x="11" y="6.5" width="174" height="31" rx="4" fill="url(#bgGrad)"/>
+
+  <!-- Subtle top glossy sheen -->
+  <rect x="12" y="7" width="172" height="12" rx="3" fill="#FFFFFF" opacity="0.10"/>
+
+  <!-- Greek meander trim -->
+  <rect x="18" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="22" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="30" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="34" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="42" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="46" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="54" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="58" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="66" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="70" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="78" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="82" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="90" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="94" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="102" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="106" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="114" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="118" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="126" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="130" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="138" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="142" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="150" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="154" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/><rect x="162" y="5" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="166" y="7" width="2" height="2" fill="#D4AF37" opacity="0.45"/>
+  <rect x="18" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="30" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="42" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="54" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="66" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="78" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="90" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="102" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="114" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="126" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="138" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="150" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/><rect x="162" y="37" width="6" height="2" fill="#FFD700" opacity="0.55"/>
+
+  <!-- Golden laurel accents -->
+  <path d="M5,22 C2,17 4,11 9,9 C7,14 7,17 8,22 C7,27 7,30 9,35 C4,33 2,27 5,22 Z" fill="url(#goldGrad)" stroke="#1A0529" stroke-width="1"/><ellipse cx="6" cy="14" rx="2.2" ry="3.5" transform="rotate(-25 6 14)" fill="#FFD700"/><ellipse cx="6" cy="30" rx="2.2" ry="3.5" transform="rotate(25 6 30)" fill="#FFD700"/>
+  <path d="M191,22 C194,17 192,11 187,9 C189,14 189,17 188,22 C189,27 189,30 187,35 C192,33 194,27 191,22 Z" fill="url(#goldGrad)" stroke="#1A0529" stroke-width="1"/><ellipse cx="190" cy="14" rx="2.2" ry="3.5" transform="rotate(25 190 14)" fill="#FFD700"/><ellipse cx="190" cy="30" rx="2.2" ry="3.5" transform="rotate(-25 190 30)" fill="#FFD700"/>
+
+  <!-- Emblem medallion socket -->
+  <circle cx="27" cy="22" r="11" fill="#1A052E" stroke="#D4AF37" stroke-width="1.5"/>
+  <g transform="translate(17.5, 12.5) scale(1.18)">
+    <path d="M8 1.2 L10 5.8 L15 6.3 L11.2 9.5 L12.4 14.5 L8 11.8 L3.6 14.5 L4.8 9.5 L1 6.3 L6 5.8 Z" fill="#E056FD" stroke="#1A0529" stroke-width="0.8"/>
+  </g>
+
+  <!-- Rank label with hard drop shadow -->
+  <text x="110" y="29.5" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-weight="900" font-size="21" letter-spacing="1.2" fill="#12031F">CREADOR</text>
+  <text x="110" y="28" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-weight="900" font-size="21" letter-spacing="1.2" fill="url(#textGrad)">CREADOR</text>
+</svg>
